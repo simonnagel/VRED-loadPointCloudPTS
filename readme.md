@@ -4,7 +4,9 @@
 
 Runs only in VRED<2021 as this script is written in Python 2.0
 
-Paste the Script to VRED
+Use the [Script VRED-reducePointsPTS.py](VRED-reducePointsPTS.py) to reduce the Amount of Points of the PTS. You might want to start with 1000000 in the first place to get a feeling for import times and performance.
+
+Paste the [Script VRED-loadPointCloudPTS.py](VRED-loadPointCloudPTS.py) to VRED
 Please change the path in line 32 to your PTS file path
 (optional) Change the Resolution of res
 Execute Script
