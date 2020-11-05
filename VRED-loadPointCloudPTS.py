@@ -20,8 +20,8 @@ A Chunk material will be added to the Point Cloud. You can change the Size of th
 Use the scripts VRED-reducePointsPTS to reduce the initial amout of points (tested 10000000 - worked fine )
 
 Paste the Script to VRED
-Please change the path in line 34 to your PTS file path
-(optional) Change the Resolution of res
+Please change the path in line 36 to your PTS file path
+(optional) Change the Resolution of res (default 500)
 Execute Script
 In some cases you need to rescale your PointCloud Node in the scenegraph to see a result.
 
