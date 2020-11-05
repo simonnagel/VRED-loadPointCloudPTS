@@ -13,11 +13,11 @@ Use the [Script VRED-reducePointsPTS.py](VRED-reducePointsPTS.py) to reduce the 
 
 
 Concept of the script
-Polyplanes are created with a resolution res (default 500*500 = 250000 vertices)
-Each Vertex will be set to the position of a point of the Point Cloud
-The Rendering of the Mesh will change to "Type 0", this stands for rendered as point
-The Vertex Color will be changed according to the RGB Value of the Point Cloud
-A Chunk material will be added to the Point Cloud. You can change the Size of the Point in the Node Editor.
+- Polyplanes are created with a resolution res (default 500*500 = 250000 vertices)
+- Each Vertex will be set to the position of a point of the Point Cloud
+- The Rendering of the Mesh will change to "Type 0", this stands for rendered as point
+- The Vertex Color will be changed according to the RGB Value of the Point Cloud
+- A Chunk material will be added to the Point Cloud. You can change the Size of the Point in the Node Editor.
 
 
 
