@@ -17,10 +17,14 @@ The Rendering of the Mesh will change to "Type 0", this stands for rendered as p
 The Vertex Color will be changed according to the RGB Value of the Point Cloud
 A Chunk material will be added to the Point Cloud. You can change the Size of the Point in the Node Editor.
 
+Use the scripts VRED-reducePointsPTS
+
 Paste the Script to VRED
-Please change the path in line 32 to your PTS file path
+Please change the path in line 34 to your PTS file path
 (optional) Change the Resolution of res
 Execute Script
+In some cases you need to rescale your PointCloud Node in the scenegraph to see a result.
+
 
 '''
 
